@@ -1,4 +1,7 @@
 <?php
+
+echo "<h1 style='text-align:center;'>VARIABLES</h1>";
+
 $fonts = 'verdana';
 echo $fonts;
 echo "<br>";
