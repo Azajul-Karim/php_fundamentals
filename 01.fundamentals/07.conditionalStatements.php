@@ -4,7 +4,7 @@ echo "<h1 style='text-align:center;'>CONDITIONAL STSTEMENTS</h1>";
 // PHP Conditional Statements
 echo "<h2>PHP Conditional Statements</h2>";
 
-// if statement
+// if statement 
 $x = 10;
 if ($x > 15) {
   echo "Hello World!";
